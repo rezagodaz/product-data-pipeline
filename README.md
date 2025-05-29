@@ -28,7 +28,8 @@ This project scrapes product data from Staples (Windows laptops category), gener
 ### Prerequisites
 
 - Python 3.8+  
-- Git  
+- Git
+- Working only under Linux  
 
 ### Installation
 
